@@ -1,0 +1,18 @@
+{
+	"article": [{
+			"id": "1",
+			"category": "sports",
+			"content": "Lionel messi scores a hatrick"
+		},
+		{
+			"id": "2",
+			"category": "health",
+			"content": "smoking is injurious to health"
+		},
+		{
+			"id": "3",
+			"category": "finance",
+			"content": "another Boeing 737 max 8 crash"
+		}
+	]
+}
